@@ -5,7 +5,7 @@ Software Engineer · Java & Spring Boot · Distributed Systems · Cloud · AI
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/vinay-krishna-murthy-35b6673a9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Vinay944924">
@@ -37,7 +37,6 @@ Software Engineer · Java & Spring Boot · Distributed Systems · Cloud · AI
 - 🤖 Building AI applications using **LLMs, LangChain, LangGraph, RAG, MCP, Anthropic AI, and Azure OpenAI**
 - 🧪 Experienced with automated testing, CI/CD, monitoring, and production support
 - 🎓 M.S. in **Information Systems** from Northeastern University
-- 📍 Based in **Austin, Texas**
 
 <details>
 <summary><b>🔎 More about how I work...</b></summary>
@@ -162,32 +161,6 @@ The platform combines backend services, event-driven processing, vector search, 
 
 ---
 
-# 💼 Experience Highlights
-
-### 💻 Software Engineer — One Community Global
-
-- Develop and enhance full-stack features using **React, Node.js, and Express.js**
-- Engineer REST APIs and backend services for structured operational data
-- Diagnose application defects, integration issues, merge conflicts, and CI failures
-- Collaborate with distributed engineers and feature owners in an Agile environment
-
-### ⚙️ Software Engineer — Accenture
-
-- Designed and maintained scalable **Java and Spring Boot services** handling **100K+ user requests**
-- Built distributed application and high-volume data-processing workflows
-- Deployed containerized services using **Kubernetes and Terraform**
-- Established automated testing, CI/CD, and observability practices
-- Reduced production incident-detection time by **40%**
-
-### 🚀 Associate Software Engineer — Accenture
-
-- Developed Java/Spring Boot microservices with **REST and gRPC APIs**
-- Supported applications serving **100K+ active users**
-- Implemented Kafka and Flink workflows processing **2M+ daily events**
-- Refactored legacy components into modular, maintainable services
-- Improved testing accuracy by **25%** using JUnit, Mockito, and Test-Driven Development
-
----
 
 # 📊 Impact at a Glance
 
@@ -263,7 +236,7 @@ Aug 2017 – Jul 2021 · India
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/vinay-krishna-murthy-35b6673a9/">LinkedIn</a>
   •
   <a href="https://github.com/Vinay944924">GitHub</a>
   •
