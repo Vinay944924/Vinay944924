@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">Hi 👋, I'm Vinay Krishna Murthy</h1>
 
 <h3 align="center">
